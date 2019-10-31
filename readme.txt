@@ -1,1 +1,1 @@
-Git is a free and useful software.
+Git is a free software.
